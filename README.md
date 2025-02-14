@@ -127,19 +127,3 @@ In your video demonstration, cover the following:
 6. **GitHub Repository:**  
    - Navigate through the GitHub repository to showcase your code.
 
-## Author
-
-**Your Name**  
-[GitHub: Adesh-veer](https://github.com/Adesh-veer)  
-Email: your-email@example.com
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy coding! 🚀
-```
-
-You can copy the above text and save it as your **README.md** file. Then commit and push it to your GitHub repository. Enjoy!
